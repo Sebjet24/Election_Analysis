@@ -8,7 +8,7 @@
 
 ## Election-Audit Results
 
-### Addressing how I got each Outcome
+### Addressing each Outcome
 
 With the use of Python coding each outcome was easily produced. 
 
