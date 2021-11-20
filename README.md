@@ -4,7 +4,7 @@
 
 ### Purpose:
 
- - After creating a successful election audit for Seth and Tom, the election commission has requested some additional data to complete the audit. Specifically they asked for the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. Using the elcetion_results_csv file once again, I will compile the data and outline the key information that they are searching for using Visual Studio and the Python language.
+ - After creating a successful election audit for Seth and Tom, the election commission has requested some additional data to complete the audit. Specifically they asked for the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. Using the [election_results.csv](https://github.com/Sebjet24/Election_Analysis/files/7575194/election_results.csv) once again, I will compile the data and outline the key information that they are searching for using Visual Studio and the Python language.
 
 ## Election-Audit Results
 
@@ -29,9 +29,9 @@ With the use of Python coding each outcome was easily produced.
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/91230277/142739830-e4561053-cc5c-4554-8c5f-cf6a3caf9b21.png)
 
- - I did a similar process of coding for the votes and percentages of the total votes each candidate received shown below:
+ - I did a similar process of coding for the votes and percentages of the total votes each candidate received as I did for the county votes shown below:
 
-![Screenshot (24)](https://user-images.githubusercontent.com/91230277/142739895-eb846b73-46e4-4f80-8105-1c47f9b92a7a.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/91230277/142740068-c23e3f34-8a9f-420f-9ca2-35b330b3bfb7.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/91230277/142739937-3cb2495e-e53a-4450-9e7d-5cb35bb8d5ba.png)
 
  - Finally, the winner was Diana DeGette with a wopping 272,892 votes and a 73.8% portion of the votes cast. I did another "if statement" to determine this:
@@ -39,4 +39,8 @@ With the use of Python coding each outcome was easily produced.
 ![Screenshot (26)](https://user-images.githubusercontent.com/91230277/142740022-7f685bd0-8993-4963-afc7-343b09efbd8b.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/91230277/142740037-b174f8ea-d394-417a-9985-52afa755933b.png)
 
+## Election-Audit Summary
 
+### Final Thoughts and Proposal
+
+ - As requested, I created a python program that showed the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. 
