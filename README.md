@@ -13,23 +13,29 @@
 With the use of Python coding each outcome was easily produced. 
 
  - The total votes cast during the congressional election was 369,711. The code I used to find this number was a "for loop" going through each persons vote and adding a 1 to the total:
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/91230277/142739538-301f6e86-7d85-4aa0-a9b2-94aa63b922b4.png)
 
  - The results of each County vote are as follows:
+
 ![Screenshot (21)](https://user-images.githubusercontent.com/91230277/142739738-6200836d-2d3b-4b18-adca-10aaef92de95.png)
 
  - Now each county vote was a bit more tricky to code than the total vote, but it still consisted of adding to the total of each county within the same "for loop". I also distinguished each vote to each county with an "if statement":
+
 ![Screenshot (20)](https://user-images.githubusercontent.com/91230277/142739671-326a26af-28a6-4fbd-acff-577404e5502d.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/91230277/142739809-b449da5a-5034-462e-b1c0-242d19206535.png)
 
  - The county that recieved the most votes was Denver. I determined the largest quantity of votes by using an if statment:
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/91230277/142739830-e4561053-cc5c-4554-8c5f-cf6a3caf9b21.png)
 
  - I did a similar process of coding for the votes and percentages of the total votes each candidate received shown below:
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/91230277/142739895-eb846b73-46e4-4f80-8105-1c47f9b92a7a.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/91230277/142739937-3cb2495e-e53a-4450-9e7d-5cb35bb8d5ba.png)
 
  - Finally, the winner was Diana DeGette with a wopping 272,892 votes and a 73.8% portion of the votes cast. I did another "if statement" to determine this:
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/91230277/142740022-7f685bd0-8993-4963-afc7-343b09efbd8b.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/91230277/142740037-b174f8ea-d394-417a-9985-52afa755933b.png)
 
