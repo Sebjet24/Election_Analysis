@@ -43,4 +43,8 @@ With the use of Python coding each outcome was easily produced.
 
 ### Final Thoughts and Proposal
 
- - As requested, I created a python program that showed the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. 
+ - As requested, I created a python program that showed the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. I also showed the winner of the congressional election and deteremined her results in comparison to the other candidates.
+ - With this all being said, I know that this code can do the same for other elections not just for this one. This code easily and smoothly can comb through any csv file with results structured similarly to [election_results.csv](https://github.com/Sebjet24/Election_Analysis/files/7575194/election_results.csv). But even still I could easily add to this script with very little effort since the base coding structure is already there. 
+ - For example, if you wanted to compare these results to past elections I could simply add to the end of the coding to take into account past elections and compare winning perecentages. This could give us a better outlook on this election and why it went the way it did.
+ - A second example is we could add another column of data with their registered political party and then determine the percentage of people that voted for candidates in correlation to their political party. But why stop there. We could take in all kinds of information and look at the data to help determine reasons why people voted the way that they did.
+ - In conclusion, I would like to propose using this code for future elections and building upon it to take in more information so that we can get a better look at why elections went the way that they did.
