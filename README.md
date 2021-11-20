@@ -25,7 +25,7 @@ With the use of Python coding each outcome was easily produced.
 ![Screenshot (20)](https://user-images.githubusercontent.com/91230277/142739671-326a26af-28a6-4fbd-acff-577404e5502d.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/91230277/142739809-b449da5a-5034-462e-b1c0-242d19206535.png)
 
- - The county that recieved the most votes was Denver. I determined the largest quantity of votes by using an if statment:
+ - The county that recieved the most votes was Denver. I determined the largest quantity of votes by using an "if statment" and then printing the result:
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/91230277/142739830-e4561053-cc5c-4554-8c5f-cf6a3caf9b21.png)
 
