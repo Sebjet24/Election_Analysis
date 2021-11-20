@@ -20,7 +20,7 @@ With the use of Python coding each outcome was easily produced.
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/91230277/142739738-6200836d-2d3b-4b18-adca-10aaef92de95.png)
 
- - Now each county vote was a bit more tricky to code than the total vote, but it still consisted of adding to the total of each county within the same "for loop". I also distinguished each vote to each county with an "if statement":
+ - Now each county vote was a bit more tricky to code than the total vote, but it still consisted of adding to the total of each county within the same "for loop". I also distinguished each vote to each county with an "if statement". This is shown by the two images below:
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/91230277/142739671-326a26af-28a6-4fbd-acff-577404e5502d.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/91230277/142739809-b449da5a-5034-462e-b1c0-242d19206535.png)
